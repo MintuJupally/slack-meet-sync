@@ -1,4 +1,4 @@
-# Slack Status Sync
+# Slack Meet Sync
 
 Automatically syncs your Slack status based on active Google Meet tabs in Chrome (macOS only).
 
